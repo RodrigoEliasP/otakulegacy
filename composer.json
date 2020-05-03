@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-4": {
+			"src\\models\\classes\\": "src/models/classes/"
+		}
+	},
+	"require": {
+		"hbattat/verifyemail": "1.0.8"
+	}
+}
